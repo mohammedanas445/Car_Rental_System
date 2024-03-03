@@ -14,8 +14,8 @@ This is a command-line based car rental system implemented in C++. The system al
    ```bash
    g++ main.cpp -o carRentalSystem
 Run: Execute the compiled binary.
-```bash
-./carRentalSystem
+   ```bash
+   ./carRentalSystem
 Follow on-screen instructions to navigate through the system as a customer, employee, or manager.
 Files
 main.cpp: Contains the main code for the car rental system.
