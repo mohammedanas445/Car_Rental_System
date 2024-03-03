@@ -18,7 +18,7 @@ Run: Execute the compiled binary.
    ./carRentalSystem
 
 
-Follow on-screen instructions to navigate through the system as a customer, employee, or manager.
+2. Follow on-screen instructions to navigate through the system as a customer, employee, or manager.
 Files
 main.cpp: Contains the main code for the car rental system.
 cars.txt, customers.txt, employees.txt: Files storing data for cars, customers, and employees, respectively.
