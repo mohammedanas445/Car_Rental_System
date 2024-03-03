@@ -1,0 +1,6 @@
+1 Toyota_Camry Good Black 0 
+2 Honda_Civic Excellent White 0 
+3 Ford_Mustang Fair Red 0 
+4 Chevrolet_Corvette Good Blue 0 
+5 BMW_X5 Excellent Silver 0 
+6 Alto good VXI 0 

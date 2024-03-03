@@ -1,0 +1,5 @@
+Michael_Scott 101 password 3 0 0 
+Dwight_Schrute 102 password 2 0 0 
+Jim_Halpert 103 password 3 0 0 
+Pam_Beesly 104 password 2 0 0 
+Ryan_Howard 105 password 3 0 0 
